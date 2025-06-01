@@ -56,7 +56,7 @@ You can interact with the live Power BI dashboard by clicking the link below:
 
 ## Repository Contents
 
-* `AdventureWorks_Dashboard.pbix`: The main Power BI project file.
+* `AdventureWorks.pbix`: The main Power BI project file.
 * `data/`: Contains the raw and potentially processed datasets.
 * `snips/`: Visual snapshots of the dashboard pages.
 
